@@ -1,7 +1,7 @@
 **WACC**
 
 Supplementary code for Wildgruber et al. (2026): An empirically validated open-access approach for calculating the cost of capital of renewables.
-Currently under peer review for publicaion.
+Energy Strategy Reviews.
 
 
 **Setup**
